@@ -1,0 +1,6 @@
+com/danilo/angular/EmployeeResource.class
+com/danilo/angular/model/Employee.class
+com/danilo/angular/repo/EmployeeRepo.class
+com/danilo/angular/AngularApplication.class
+com/danilo/angular/exception/UserNotFoundException.class
+com/danilo/angular/service/EmployeeService.class
